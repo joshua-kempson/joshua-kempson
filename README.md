@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm a self-taught frontend developer with a background in design. Want to take my design skills to the development side!
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
