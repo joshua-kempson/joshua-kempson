@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm a self-taught frontend developer with a background in design. Want to take my design skills to the development side!
+### I'm a determined & passionate frontend developer with a background in design. Wanting to take my design skills to the development side!
+### Currently I am testing my skills by building a blog, as I want to learn more about the MERN stack.
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
