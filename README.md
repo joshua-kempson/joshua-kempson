@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I'm a determined & passionate frontend developer with a background in design. Wanting to take my design skills to the development side!
-### Currently I am testing my skills by building a blog to learn more about the MERN stack. Also I am building my portfolio website to display my projects in the near future.
+### Passionate about computer science and data science. Currently learning Python and Mathematics, whilst I wait to start my MSc in Data Science in September.
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
