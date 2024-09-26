@@ -1,5 +1,4 @@
-### Hi there 👋
-### Passionate about computer science and data science. Currently learning Python and Mathematics, whilst I wait to start my MSc in Data Science in September.
+### Currently studying MSc in Data Science
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
