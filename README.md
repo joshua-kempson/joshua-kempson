@@ -1,4 +1,4 @@
-### Currently studying MSc in Data Science
+### Studying MSc Data Science
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
