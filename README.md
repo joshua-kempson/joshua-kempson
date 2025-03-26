@@ -1,3 +1,5 @@
+## Joshua Kempson
+
 ### Education
 Currently Studying MSc Data Science & Data Science <br>
 Bachelors: BA (Hons) Graphic Design <br>
