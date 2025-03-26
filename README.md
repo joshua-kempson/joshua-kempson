@@ -1,4 +1,15 @@
-### Studying MSc Data Science
+### Education
+Currently Studying MSc Data Science & Data Science
+Bachelors: BA (Hons) Graphic Design
+
+### Programming Languages
+Python
+C/C++
+
+### Interests
+Machine Learning
+Improving Software Performance
+
 
 <!--
 **joshkempson/joshkempson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
