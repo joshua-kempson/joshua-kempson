@@ -1,5 +1,5 @@
 ### Education
-Currently Studying MSc Data Science & Data Science
+Currently Studying MSc Data Science & Data Science \b
 Bachelors: BA (Hons) Graphic Design
 
 ### Programming Languages
