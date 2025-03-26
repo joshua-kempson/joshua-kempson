@@ -1,6 +1,6 @@
 ### Education
-<p> Currently Studying MSc Data Science & Data Science <br>
-Bachelors: BA (Hons) Graphic Design </p><br>
+Currently Studying MSc Data Science & Data Science <br>
+Bachelors: BA (Hons) Graphic Design <br>
 
 ### Programming Languages
 Python <br>
