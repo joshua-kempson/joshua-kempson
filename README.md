@@ -1,13 +1,13 @@
 ### Education
-Currently Studying MSc Data Science & Data Science <b>
-Bachelors: BA (Hons) Graphic Design <b>
+Currently Studying MSc Data Science & Data Science <br>
+Bachelors: BA (Hons) Graphic Design <br>
 
 ### Programming Languages
-Python <b>
-C/C++ <b>
+Python <br>
+C/C++ <br>
 
 ### Interests
-Machine Learning <b>
+Machine Learning <br>
 Improving Software Performance
 
 
