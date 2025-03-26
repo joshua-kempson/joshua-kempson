@@ -1,4 +1,4 @@
-## Joshua Kempson
+# Joshua Kempson
 
 ### Education
 Currently Studying MSc Data Science & Data Science <br>
