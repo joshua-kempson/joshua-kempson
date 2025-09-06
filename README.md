@@ -1,16 +1,4 @@
-# Joshua Kempson
-
-### Education
-Currently Studying MSc Data Science & Data Science <br>
-Bachelors: BA (Hons) Graphic Design <br>
-
-### Programming Languages
-Python <br>
-C/C++ <br>
-
-### Interests
-Machine Learning <br>
-Improving Software Performance
+# Josh Kempson
 
 
 <!--
